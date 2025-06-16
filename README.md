@@ -1,2 +1,2 @@
-# HaxeFlixel Template
-Just a simple template for making games with HaxeFlixel.
+# Untitled RPG Game
+Well yes.. haha!
