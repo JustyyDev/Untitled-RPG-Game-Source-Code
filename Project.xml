@@ -3,7 +3,7 @@
 
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="HaxeFlixel Template" file="Template" main="Main" version="1.0.0" company="Joalor64" />
+	<app title="Untitled RPG Game" file="Untitled RPG Game" main="Main" version="0.0.1" company="Pixel Fox Studios" />
 	<app preloader="flixel.system.FlxPreloader" />
 
 	<!-- Minimum without FLX_NO_GAMEPAD: 11.8, without FLX_NO_NATIVE_CURSOR: 11.2 -->
