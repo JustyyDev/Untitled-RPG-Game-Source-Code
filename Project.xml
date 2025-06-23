@@ -34,6 +34,17 @@
 	<source path="source" />
 	<assets path="assets" exclude="*.mp3" unless="web" />
 
+	<!-- Explicit asset includes for main menu images -->
+	<assets path="assets/images/titlescreen" include="*.png" />
+	<assets path="assets/fonts" include="*.ttf" />
+
+	<!-- Load all assets in subfolders automatically -->
+	<assets path="assets/data" />
+	<assets path="assets/fonts" />
+	<assets path="assets/images" />
+	<assets path="assets/music" />
+	<assets path="assets/sounds" />
+
 	<!-- _______________________________ Libraries ______________________________ -->
 
 	<!-- Default flixel library -->
